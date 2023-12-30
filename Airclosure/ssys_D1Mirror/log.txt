@@ -1,0 +1,46 @@
+session {7/22 11:43:50am > asmohdsa opened job C:/ProgramData/Stratasys/FDMControlCenter/8.1/jobs/asmohdsa4/Default.sjb.  Insight 8.1 (4273).}
+msg {11:43:51am > Read 26 facets in 0:00 from "C:/Users/asmohdsa/Documents/IMR/SIMMS Humidity Sensor Bluetooth detection system/Airclosure/D1Mirror.stl"}
+msg {11:43:51am > STL comment: D1Mirror}
+msg {11:43:51am > Bounding box of this STL X, Y, Z:}
+msg {11:43:51am >       min = (81.4096, -1.3838, 10.0000)}
+msg {11:43:51am >       max = (111.4096, 38.6162, 20.0000)}
+msg {11:43:51am > Done loading STL file after 1 sec.}
+msg {11:43:56am > 	Slice height:	0.2540}
+msg {11:43:56am > Done slicing.}
+msg {11:43:56am > Supports removed}
+msg {11:43:56am > 	Support style:	SMART}
+msg {11:43:57am > Inspecting part curves}
+msg {11:43:57am > Generating supports}
+msg {11:43:57am > Done generating supports.}
+msg {11:43:58am > Done writing boundary curves.}
+msg {11:43:58am > Saved job:  C:/Users/asmohdsa/Documents/IMR/SIMMS Humidity Sensor Bluetooth detection system/Airclosure/ssys_D1Mirror/D1Mirror.sjb}
+msg {11:43:58am > 	Part fill style:	One contour /  rasters}
+msg {11:43:58am > 	Part interior style:	Solid - normal}
+msg {11:43:58am > 	Contour width:	0.5080}
+msg {11:43:58am > 	Part raster width:	0.5080}
+msg {11:43:59am > Done generating toolpaths.}
+msg {11:44:00am > CMB moved to envelope center.}
+msg {11:44:01am > Toolpath Information}
+msg {11:44:01am > 	Est. build time:	28 min }
+msg {11:44:01am > 	Model material:	10.689 cm³}
+msg {11:44:01am > 	Support material:	1.239 cm³}
+msg {11:44:01am > Done writing CMB file after 1 sec.}
+msg {11:44:01am > Job Summary}
+msg {11:44:01am > 	Full job path:	C:/Users/asmohdsa/Documents/IMR/SIMMS Humidity Sensor Bluetooth detection system/Airclosure/ssys_D1Mirror/D1Mirror.sjb}
+msg {11:44:01am > 	Toolpath file name:	D1Mirror.cmb.gz}
+msg {11:44:01am > 	Modeler:		Fortus 250mc}
+msg {11:44:01am > 	Est. build time:	28 min }
+msg {11:44:01am > 	Model material:	10.689 cm³,	T14,	ABS P430}
+msg {11:44:01am > 	Support material:	1.239 cm³,	T16,	ABS SR30}
+msg {11:44:01am > 	Slice height:	0.2540}
+msg {11:44:01am > 	Part fill style:	One contour /  rasters}
+msg {11:44:01am > 	Part interior style:	Solid - normal}
+msg {11:44:01am > 	Visible surface style:	Enhanced}
+msg {11:44:01am > 	Support style:	SMART}
+msg {11:44:01am > 	Contour width:	0.5080}
+msg {11:44:01am > 	Number of contours:	6.3500}
+msg {11:44:01am > 	Part interior contours:	0.3810}
+msg {11:44:01am > 	Part raster width:	0.5080}
+msg {11:44:01am > 	Application:	Insight 8.1, Build version: 4273}
+msg {11:44:01am > Saved job:  C:/Users/asmohdsa/Documents/IMR/SIMMS Humidity Sensor Bluetooth detection system/Airclosure/ssys_D1Mirror/D1Mirror.sjb,  approximate build time 28 min }
+session {7/22 11:44:06am > asmohdsa closed job.}

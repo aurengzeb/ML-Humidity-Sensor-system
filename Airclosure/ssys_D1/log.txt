@@ -1,0 +1,46 @@
+session {7/21 4:32:55pm > asmohdsa opened job C:/ProgramData/Stratasys/FDMControlCenter/8.1/jobs/asmohdsa3/Default.sjb.  Insight 8.1 (4273).}
+msg {4:32:56pm > Read 26 facets in 0:00 from "C:/Users/asmohdsa/Documents/IMR/SIMMS Humidity Sensor Bluetooth detection system/Airclosure/D1.stl"}
+msg {4:32:56pm > STL comment: D1}
+msg {4:32:56pm > Bounding box of this STL X, Y, Z:}
+msg {4:32:56pm >       min = (81.4096, -1.3838, 10.0000)}
+msg {4:32:56pm >       max = (111.4096, 38.6162, 20.0000)}
+msg {4:32:56pm > Done loading STL file after 1 sec.}
+msg {4:33:02pm > 	Slice height:	0.2540}
+msg {4:33:02pm > Done slicing.}
+msg {4:33:02pm > Supports removed}
+msg {4:33:02pm > 	Support style:	SMART}
+msg {4:33:03pm > Inspecting part curves}
+msg {4:33:03pm > Generating supports}
+msg {4:33:03pm > Done generating supports.}
+msg {4:33:04pm > Done writing boundary curves.}
+msg {4:33:04pm > Saved job:  C:/Users/asmohdsa/Documents/IMR/SIMMS Humidity Sensor Bluetooth detection system/Airclosure/ssys_D1/D1.sjb}
+msg {4:33:04pm > 	Part fill style:	One contour /  rasters}
+msg {4:33:04pm > 	Part interior style:	Solid - normal}
+msg {4:33:04pm > 	Contour width:	0.5080}
+msg {4:33:04pm > 	Part raster width:	0.5080}
+msg {4:33:05pm > Done generating toolpaths.}
+msg {4:33:06pm > CMB moved to envelope center.}
+msg {4:33:06pm > Toolpath Information}
+msg {4:33:06pm > 	Est. build time:	28 min }
+msg {4:33:06pm > 	Model material:	10.689 cm³}
+msg {4:33:06pm > 	Support material:	1.239 cm³}
+msg {4:33:06pm > Done writing CMB file after 1 sec.}
+msg {4:33:06pm > Job Summary}
+msg {4:33:06pm > 	Full job path:	C:/Users/asmohdsa/Documents/IMR/SIMMS Humidity Sensor Bluetooth detection system/Airclosure/ssys_D1/D1.sjb}
+msg {4:33:06pm > 	Toolpath file name:	D1.cmb.gz}
+msg {4:33:06pm > 	Modeler:		Fortus 250mc}
+msg {4:33:06pm > 	Est. build time:	28 min }
+msg {4:33:06pm > 	Model material:	10.689 cm³,	T14,	ABS P430}
+msg {4:33:06pm > 	Support material:	1.239 cm³,	T16,	ABS SR30}
+msg {4:33:06pm > 	Slice height:	0.2540}
+msg {4:33:06pm > 	Part fill style:	One contour /  rasters}
+msg {4:33:06pm > 	Part interior style:	Solid - normal}
+msg {4:33:06pm > 	Visible surface style:	Enhanced}
+msg {4:33:06pm > 	Support style:	SMART}
+msg {4:33:06pm > 	Contour width:	0.5080}
+msg {4:33:06pm > 	Number of contours:	6.3500}
+msg {4:33:06pm > 	Part interior contours:	0.3810}
+msg {4:33:06pm > 	Part raster width:	0.5080}
+msg {4:33:06pm > 	Application:	Insight 8.1, Build version: 4273}
+msg {4:33:06pm > Saved job:  C:/Users/asmohdsa/Documents/IMR/SIMMS Humidity Sensor Bluetooth detection system/Airclosure/ssys_D1/D1.sjb,  approximate build time 28 min }
+session {7/22 7:38:25am > asmohdsa closed job.}

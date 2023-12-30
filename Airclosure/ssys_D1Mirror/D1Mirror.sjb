@@ -1,0 +1,6 @@
+# Product version 8.1
+# Build version 4273
+setVersionVar currentJobCore "D1Mirror";
+setVersionVar stlDirectory "C:/Users/asmohdsa/Documents/IMR/SIMMS Humidity Sensor Bluetooth detection system/Airclosure";
+setVersionVar stlPath "C:/Users/asmohdsa/Documents/IMR/SIMMS Humidity Sensor Bluetooth detection system/Airclosure/D1Mirror.stl";
+setVersionVar toolpathFile "D1Mirror.cmb.gz";
